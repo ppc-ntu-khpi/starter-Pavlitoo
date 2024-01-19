@@ -84,7 +84,7 @@ public class Quotation {
 
 ```
 
-![My result](Solution/task1MarkDown.jpg)
+![My result](Solution/task2MarkDown.jpg)
 
 ## Цитата
 
